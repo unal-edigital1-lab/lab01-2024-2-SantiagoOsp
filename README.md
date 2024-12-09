@@ -48,3 +48,7 @@ Como los valores se almacenan es necesario un sistema que verifique las entradas
     begin
         A+B+Ci;
     end
+
+La siguiente imagen muestra una simulacion de las entradas y salidas que va a tener el sistema:
+
+![](/Captura1.PNG)
