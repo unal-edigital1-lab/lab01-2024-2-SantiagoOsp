@@ -6,7 +6,7 @@ module sum1bcc (A, B, Ci,Cout,S);
   output Cout;
   output S;
 
-  reg [1:0] st;   // REGISTRO QEU GUARDA LA SUMA 
+  reg [1:0] st;   // REGISTRO QUE GUARDA LA SUMA 
   assign S = st[0];
   assign Cout = st[1];
 
