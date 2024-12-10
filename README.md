@@ -52,3 +52,5 @@ Como los valores se almacenan es necesario un sistema que verifique las entradas
 La siguiente imagen muestra una simulacion de las entradas y salidas que va a tener el sistema:
 
 ![](/Captura1.PNG)
+
+>Simulación del sumador de 1 bit con GTKWave.
