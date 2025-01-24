@@ -54,3 +54,7 @@ La siguiente imagen muestra una simulacion de las entradas y salidas que va a te
 ![](/Captura1.PNG)
 
 >Simulación del sumador de 1 bit con GTKWave.
+
+En el siguiente link encontraremos un link con la demostración del funcionamiento de la FPGA.
+
+[Video de implementación](https://drive.google.com/file/d/1eZ8lmiQ3j6n-puoSYPdLroljNhhXLkD8/view?usp=sharing)
